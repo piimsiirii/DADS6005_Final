@@ -1,2 +1,2 @@
 # DADS6005_Final
-#predicted gold price
+# predicted from USDTHB for Gold price 
