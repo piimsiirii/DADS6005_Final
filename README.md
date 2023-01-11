@@ -1,6 +1,6 @@
 # DADS6005_Final
 
-# predicted from USDTHB for Gold price 
+# Predicted from USDTHB for Gold price 
 
 
 
@@ -16,8 +16,8 @@
 
 
 
-# -result
+# -Result
 
 
 
-# -future Works
+# -Future Works
