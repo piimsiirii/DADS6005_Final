@@ -26,4 +26,9 @@
 
 # Member
  Advisor ผศ.ดร. เอกรัฐ รัฐกาญจน์ (ekaratnida)  
-Director in Data Analytics and Data Science (DADS) MSc Program, Nida, Bkk, Thailand https://orcid.org/0000-0003-2191-3856
+Director in Data Analytics and Data Science (DADS) MSc Program, Nida, Bkk, Thailand https://orcid.org/0000-0003-2191-3856  
+
+กมลวรรณ ตาวงศ์ 6410412001  
+พิชญภัส ผลสุขการ 6410412008  
+ศิริวลัย มณีสินธุ์ 6410412011  
+ภคนันท์ เนาว์รุ่งโรจน์ 6410412017
