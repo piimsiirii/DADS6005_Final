@@ -5,7 +5,7 @@
 
 
 # -Introduction
-
+การทำนายราคาสกุล USD/THB จากราคาทอง โดยนำมาเปรียบเทียบ
 
 
 # -Data source
@@ -21,3 +21,4 @@
 
 
 # -Future Works
+
