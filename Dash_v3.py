@@ -14,7 +14,7 @@ url_currency = "https://fixer-fixer-currency-v1.p.rapidapi.com/latest"
 querystring = {"base":"USD","symbols":"THB"}
 
 headers_currency = {
-	"X-RapidAPI-Key": "c7ef6b2039msh7ffcf6a6246db85p143fcfjsn6cb6b71a6935",
+	"X-RapidAPI-Key": "SIGN-UP-FOR-KEY",
 	"X-RapidAPI-Host": "fixer-fixer-currency-v1.p.rapidapi.com"
 }
 
@@ -22,7 +22,7 @@ headers_currency = {
 url_gold = "https://gold-price1.p.rapidapi.com/get_price/USD"
 
 headers_gold = {
-	"X-RapidAPI-Key": "c7ef6b2039msh7ffcf6a6246db85p143fcfjsn6cb6b71a6935",
+	"X-RapidAPI-Key": "SIGN-UP-FOR-KEY",
 	"X-RapidAPI-Host": "gold-price1.p.rapidapi.com"
 }
 
