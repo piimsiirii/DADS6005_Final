@@ -15,7 +15,39 @@
 
 
 # Data source
+### Fixer Currency
+```
+import requests
 
+url = "https://fixer-fixer-currency-v1.p.rapidapi.com/convert"
+
+querystring = {"from":"USD","to":"ILS","amount":"12"}
+
+headers = {
+	"X-RapidAPI-Key": "SIGN-UP-FOR-KEY",
+	"X-RapidAPI-Host": "fixer-fixer-currency-v1.p.rapidapi.com"
+}
+
+response = requests.request("GET", url, headers=headers, params=querystring)
+
+print(response.text)
+```
+
+### Gold Price
+```
+import requests
+
+url = "https://gold-price1.p.rapidapi.com/get_currency_list"
+
+headers = {
+	"X-RapidAPI-Key": "SIGN-UP-FOR-KEY",
+	"X-RapidAPI-Host": "gold-price1.p.rapidapi.com"
+}
+
+response = requests.request("GET", url, headers=headers)
+
+print(response.text)
+```
 
 
 # Coding
