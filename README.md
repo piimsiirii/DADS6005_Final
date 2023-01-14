@@ -50,9 +50,6 @@ print(response.text)
 ```
 
 
-# Coding
-
-
 
 # Result
 
