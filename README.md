@@ -19,12 +19,12 @@
 ```
 import requests
 
-url = "https://fixer-fixer-currency-v1.p.rapidapi.com/convert"
+url_currency = "https://fixer-fixer-currency-v1.p.rapidapi.com/latest"
 
-querystring = {"from":"USD","to":"ILS","amount":"12"}
+querystring = {"base":"USD","symbols":"THB"}
 
-headers = {
-	"X-RapidAPI-Key": "SIGN-UP-FOR-KEY",
+headers_currency = {
+	"X-RapidAPI-Key": "c7ef6b2039msh7ffcf6a6246db85p143fcfjsn6cb6b71a6935",
 	"X-RapidAPI-Host": "fixer-fixer-currency-v1.p.rapidapi.com"
 }
 
@@ -37,10 +37,10 @@ print(response.text)
 ```
 import requests
 
-url = "https://gold-price1.p.rapidapi.com/get_currency_list"
+url_gold = "https://gold-price1.p.rapidapi.com/get_price/USD"
 
-headers = {
-	"X-RapidAPI-Key": "SIGN-UP-FOR-KEY",
+headers_gold = {
+	"X-RapidAPI-Key": "c7ef6b2039msh7ffcf6a6246db85p143fcfjsn6cb6b71a6935",
 	"X-RapidAPI-Host": "gold-price1.p.rapidapi.com"
 }
 
