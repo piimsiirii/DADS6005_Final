@@ -77,3 +77,4 @@ Director in Data Analytics and Data Science (DADS) MSc Program, Nida, Bkk, Thail
 - พิชญภัส ผลสุขการ 6410412008  
 - ศิริวลัย มณีสินธุ์ 6410412011  
 - ภคนันท์ เนาว์รุ่งโรจน์ 6410412017
+- https://nida365.sharepoint.com/:v:/s/finalprojectDADS6005/EY31fYYQQWZGhDw_8l-RJ68BW8jBPd8B51yJFwo72ZYwLQ?e=EKAYpv
